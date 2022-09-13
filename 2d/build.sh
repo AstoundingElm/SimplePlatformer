@@ -1,0 +1,1 @@
+clang main.cpp -g -Wall -s -lX11-xcb -lxcb -lX11 -lGL
